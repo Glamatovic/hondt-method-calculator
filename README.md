@@ -1,7 +1,7 @@
 # D’Hondt Method Calculator
 
 ## Description
-This Python software calculates elections’ seat allocation by using the ![D’hondt method of apportionment.](https://en.wikipedia.org/wiki/D%27Hondt_method)
+This Python software calculates elections’ seat allocation by using the [D’hondt method of apportionment.](https://en.wikipedia.org/wiki/D%27Hondt_method)
 With this software you will be able to:
 - Simulate the allocation of seats through the D’Hondt Method
 - Visualize the allocation seat-by-seat
