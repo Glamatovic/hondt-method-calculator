@@ -38,7 +38,8 @@ If you go to the editor, you'll be able to change the info you've inserted previ
 - Or, if you want to change something about one of the lists you should type their index number, on the left side of the table
 ![img4](https://i.imgur.com/IIRrOS4.png)
 - If you choose one of the lists, you may edit the name of the list, its vote tally, or remove it from the election. You'll just need to type the corresponding number.
-Note: Only type the word or number corresponding to your choice, without quotes or spaces.
+-
+- Note: Only type the word or number corresponding to your choice, without quotes or spaces.
 
 Once you've done all the editions you need, type STOP for the program to start allocating seats
 
