@@ -52,11 +52,17 @@ Lastly a table with the final results
 You'll be asked if you want to go to the coalition simulator, to simulate a coalition scenario with these election results.
 ### Coalition Simulator
 The last part of the program execution is a coalition simulator. You'll see a table much like the ones we've seen already, only this time we just see the lists that won seats. 
+
 ![img7](https://i.imgur.com/1E12QU1.png)
+
 The procedure is fairly simple, just type the index number (at the leftmost column) of the list to either add or remove it from the coaliton. If you were to make a coalition with A and B, for example, you'd type 0 first to add A to the coalition
+
 ![img8](https://i.imgur.com/j3s6QdY.png)
+
 And then 1 to add B. This would be enough for a majority in this specific scenario.
+
 ![img9](https://i.imgur.com/SIgwMqY.png)
+
 You can simulate as many scenarios as you'd like here. You can remove parties from the coalition by inputting their index number too. Once you're done experimenting, input STOP to conclude the software's execution.
 
 ## Roadmap
