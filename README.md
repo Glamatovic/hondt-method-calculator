@@ -44,9 +44,11 @@ Once you've done all the editions you need, type STOP for the program to start a
 
 ### Seat Allocation
 After the edition (or the data insertion if you decide to skip that part), the program will allocate the seats to the lists using D'Hondt method. The terminal will print the allocation seat-by-seat as it happens.
+
 ![img5](https://i.imgur.com/FG981LI.png)
 
 Lastly a table with the final results
+
 ![img6](https://i.imgur.com/N43h6QD.png)
 
 You'll be asked if you want to go to the coalition simulator, to simulate a coalition scenario with these election results.
